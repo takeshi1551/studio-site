@@ -36,10 +36,10 @@ window.STUDIO = {
 
   // Фото робіт. Замініть файли в папці images (з тими ж іменами)
   works: [
-    { src: "images/work-1.jpg", caption: "Полірування чорного седана" },
-    { src: "images/work-2.jpg", caption: "Кераміка на кросовері" },
-    { src: "images/work-3.jpg", caption: "Хімчистка салону" },
-    { src: "images/work-4.jpg", caption: "Комплексна мийка" }
+    { src: "images/work-1.jpg", caption: "Чорний Jaguar у поліуретані" },
+    { src: "images/work-2.jpg", caption: "Антихром" },
+    { src: "images/work-3.jpg", caption: "Повне оклеювання" },
+    { src: "images/work-4.jpg", caption: "Комплексна мийка та хімчистка" }
   ],
 
   // Слайдер «до / після». Замініть before.jpg і after.jpg на свої фото тієї самої машини
