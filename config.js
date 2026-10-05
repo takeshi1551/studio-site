@@ -3,15 +3,15 @@
 window.STUDIO = {
   demo: true, // поставте false, коли заміните дані на справжні
 
-  name: "GRAPHITE Detailing",
-  tagline: "Полірування, кераміка та догляд за кузовом. Працюємо акуратно, без поспіху.",
+  name: "UPGRADE Detailing",
+  tagline: "Ми сервіс, якому довіряють! Детейлінг кузова та салону. Захисні покриття PPF",
   accent: "#4690FF",
 
   phone: "+380000000000",          // для кнопки «Зателефонувати» (без пробілів)
   phoneText: "+38 000 000 00 00",  // як показувати на екрані
   telegram: "https://t.me/your_username", // посилання на ваш Telegram
-  address: "м. Приклад, вул. Демонстраційна, 1",
-  mapUrl: "https://maps.google.com/?q=Приклад", // посилання на карту (за бажанням)
+  address: "м. Запоріжжя, Бульвар Парковий 12",
+  mapUrl: "https://maps.app.goo.gl/qW4KJnZsU4f7Jp2y5?g_st=ic", // посилання на карту (за бажанням)
 
   hours: [
     { days: "Пн–Пт", time: "09:00–19:00" },
